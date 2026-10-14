@@ -3,11 +3,13 @@
 ## Project Overview
 This project involves a comprehensive Exploratory Data Analysis (EDA) of Diwali sales data. The primary objective is to analyze customer purchasing behavior, identify demographic trends, and determine the top-performing products to extract actionable business insights.
 
-## Technologies Used
-* Python: Primary programming language for analysis.
-* Pandas: Used for data manipulation, aggregation, and cleaning.
-* NumPy: Used for numerical operations.
-* Matplotlib & Seaborn: Utilized for creating detailed visualizations and charts.
+## Technologies & Libraries
+This analysis was conducted using Python and the following data science libraries:
+*   **`pandas`**: For data ingestion, manipulation, and cleaning.
+*   **`numpy`**: For numerical and array operations.
+*   **`matplotlib.pyplot`**: For structuring and plotting static visualizations.
+*   **`seaborn`**: For creating statistical, aesthetically pleasing plots (e.g., KDEs, count plots).
+
 
 ## Key Analyses Performed
 * Data Cleaning: Handling missing values and standardizing data formats.
