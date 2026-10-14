@@ -1,4 +1,4 @@
-# Diwali Sales Data Analysis
+# Sales Data Analysis
 
 ## Project Overview
 This project involves a comprehensive Exploratory Data Analysis (EDA) of Diwali sales data. The primary objective is to analyze customer purchasing behavior, identify demographic trends, and determine the top-performing products to extract actionable business insights.
